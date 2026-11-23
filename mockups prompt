@@ -1,0 +1,13 @@
+1. Remove "Generate Temporary Access Pass" (TAP)
+ 
+"The mockups should focus only on Manage Entra MFA functionality... separate from the Generate Temporary Access Pass feature, which is not ready for development."
+• Action: In your final review mockups, delete or hide the TAP tiles (the ones with the blue "Generate TAP" button). The stakeholders only want to review the Entra MFA management portion right now. 
+2. Create the Specific "Combined" Layout Requested
+ 
+"The team will explore layout options: separate tiles versus combined tiles for Emergency Access and Manage Entra MFA."
+• Action: In your screenshots, you combined Okta and Entra MFA (Images 3 & 6), which is a great idea. But you also need to create one specific layout where Emergency Access and Manage Entra MFA are combined into a single, larger tile. 
+3. Replace the Placeholder Text
+ 
+"Verbiage in tiles is critical - placeholder text must be replaced with approved language."
+• Action: Look at the "Manage Entra MFA" tile in your screenshots. It says: "Placeholder text here (if needed). KB/Wiki link?"
+• How to fix it: Write a professional, realistic draft. For example: "Manage a customer's Multi-Factor Authentication methods. The customer must complete self-service registration to add a new method."
