@@ -1,0 +1,7 @@
+Scope Alignment (TAP Removed): The "Generate Temporary Access Pass" (TAP) feature has been removed from all existing UI mockups. This ensures the visual focus remains strictly on the Manage Entra MFA functionality, as the TAP feature is not yet ready for development.
+• Verbiage Updates: All placeholder text in the Manage Entra MFA sections has been replaced with approved, professional language. The new copy now clearly states:"Manage a customer's Multi-Factor Authentication methods. The customer must complete self-service registration to add a new method." 
+Validation
+ 
+A thorough review of these updated UI mockups was conducted to ensure:
+• No leftover placeholder text or TAP-related elements remain.
+• The visual components render correctly within the Reveille prototyping environment.
